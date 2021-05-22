@@ -1,0 +1,14 @@
+h1{text-align: center;font-variant: small-caps;color: black;}
+
+header{background-image: url("../Images/readhearts.jpg");
+	background-position: center
+	;padding: 30px}
+
+h2{text-align: center;font-style: italic;}
+nav a{text-decoration: none;margin: 120px;border-style:double;border-color: black;padding: 15px;border-radius: 50px;border-width: 10px;} 
+.letters{;font-variant: small-caps;text-align: center}
+.lettersbody{text-align: center;font-style: italic}
+.whyiloveyoubody{font-family: "Lucida Handwriting";text-align: center}
+.lettercomment{font-family: "Lucida Handwriting";text-align: center}
+ol{text-align: center; font-size: 20px}
+img{width: 150px}
